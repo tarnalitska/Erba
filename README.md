@@ -1,4 +1,4 @@
-## Erba🌿
+## Erba 🌿
 
 Erba is an iOS mobile application for safe cosmetic product selection. We help users understand the composition of cosmetic products and take care of their health.
 
