@@ -1,10 +1,8 @@
-# Erba 🌿 
+## Erba🌿
 
-## What is Erba?
+Erba is an iOS mobile application for safe cosmetic product selection. We help users understand the composition of cosmetic products and take care of their health.
 
-Erba is a mobile application for safe cosmetic product selection. We help users understand the composition of cosmetic products and take care of their health.
-
-### Key Features
+## Features
 
 🔍 Barcode Scanning
 - Instant cosmetic composition analysis
@@ -26,10 +24,3 @@ Erba is a mobile application for safe cosmetic product selection. We help users 
 - CoreML
 - RxSwift
 - Realm
-
-## Roadmap
-
-- [x] MVP with basic scanning
-- [ ] Photo recognition
-- [ ] Scan history
-- [ ] Personal recommendations
