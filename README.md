@@ -22,5 +22,3 @@ Erba is an iOS mobile application for safe cosmetic product selection. We help u
 - UIKit
 - Vision Framework
 - CoreML
-- RxSwift
-- Realm
